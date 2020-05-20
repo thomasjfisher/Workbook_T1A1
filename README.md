@@ -153,7 +153,65 @@ https://www.python.org/doc/essays/blurb/
 
 ## 7 - Two Ethical Issues
 
-2-400 each issue
+#### Access to user's personal information.
+
+i. Privacy of user information on the internet, it is one of most talked about and most expected things by most when it comes to online privacy. With how easy it is to access web sites online and online shopping, it is possible that almost everyday user's are handing over their personal data and information to web sites. 
+
+Users are entrusting companies with the security of their personal information. With how frequent people are spending and buying and subscribing online, there are of course laws and ways to manage the security of users. The websites and companies behind those websites, hold responsibility for securing the users information. Failing to do so, is an offense in every country. 
+
+Here in Australia, we have the federal Privacy Act 1988. This act is designed to promote the protection of an individuals privacy by imposing obligations on those people and or companies that handle the users information, to manage the data with transparency and with responsibility. 
+
+There are so many everyday businesses that we may not even think of when it comes to our privacy of information, such as our local gym, medical centre, even our local shopping store if we've shopped online before! If a company does in fact breach the Privacy Act 1988, the agency / company must contact the affected user and inform them of the breach, else it could result in serious monetary penalties, closure of business, loss of employment just to name some.
+
+ii.
+
+1) The Australian Government have set up web sites to help business owners in ways of protecting their users personal information. In it, it lists the obligations that the business must take when accessing, storing and sharing the persons information, be it sex, age, religion, any form of personal information that was shared to the business or website by the user. 
+
+The OAIC (Office of the Australian Information Commissioner) are tasked with enforcing the laws and conduct investigations, review decisions, handle complaints and provide guidance and advice to all who need it, users and businesses Australia wide. They are there for the security of every Australian to ensure their safety and security of their personal information.
+
+ 
+
+2) "Privacy is a fundamental human right recognised in the United Nations Declaration of Human Rights. Privacy underpins human dignity and other key values such as freedom of association and freedom of speech. Nearly every country in the world recognisees a right of privacy explicitly in their constitution."(http://gilc.org/privacy/survey/intro.html)
+
+Privacy is a basic human right. Regardless of where and which country you live in, users are protected online against maliciousness and people that would share their personal information for their own personal gain. With how easy it is to access people from all over the world via the internet, it is so important that we as users are secured by there basic human rights to have our personal information and data stored securely.
+
+Its crazy just to think of just how many websites I have personally put my data and information in to, my passwords, to maybe use the website once or twice, then never again, but to know that they still hold on to my personal information. It is for reasons such as these that the Privacy Act exists and that privacy is a basic human right.
+
+
+
+#### Intellectual property, copyright and acknowledgement 
+
+i Theft of intellectual property is way more common than we think or than we see. I personally have had a situation where my own photos from my personal blog spot were taken, shared and used by another person posing to be the artist. I legally own that content, regardless of where I post it, and therefore am covered under the Copyright Act 1968.
+
+With how many websites, how many users there are on the internet posting photo and content online, there really is no wonder that there are other people out there looking to prey upon unknowing and unsuspecting people. "What are the chances that the original artist will see this" or "There's no chance that someone will know the person that I have taken this from". These are things that go through peoples heads when they are taking content that is not their own. There is some way around this when using another creators content, by acknowledging them when using it. Best practice is to get in touch with the creator prior to using it, to make sure that they are okay with you using their content, and come to an agreement if necessary and proceed when all parties have come to an agreement.
+
+ii.
+
+1) "The Copyright Act 1968, defines the legally enforceable rights of creators of creative and artistic works under Australian Law." https://en.wikipedia.org/wiki/Copyright_law_of_Australia
+
+This makes it so that if any creator has work that another person is looking to use, then they must seek out the permission of the creator in order to publish it. No matter if it is Intellectual Property, digital content or hardcopies of content, the Copyright Act 1968 offers security to creators. It is the protection of a persons ideas that makes them comfortable to let their product/ brands/ books / content become available to the public, because without protection and acknowledgment, there would be a lot less ideas and inventions. 
+
+In a profession IT environment, the laws are there to help guide and advise people in situations, when they themselves are not clear. If an artists photo or song is used without permission, then the law is there to help guide them in what to do. In saying this, it is best practice to make sure that if there is every any time that another persons work is used, they are made aware of it, as they may seek compensation for the use of it.
+
+2) There are more ways in which to secure Intellectual Property. By Patenting the idea and creation, you are securing yourself and your idea from being "used" or "stolen" by anyone else.  "A Patent is a right that is granted for any device, substance, method or process that is new, inventive and useful." https://www.ipaustralia.gov.au/patents
+
+iii.
+
+A case study that I have selected, is one that actually caught my attention a few years ago, and actually pertains to both of the issues that I have researched above. In 1999, a street photographer by the name of Philip-Lorca diCorcia captured moments of unsuspecting passers by. He set up his camera in Times Square and attached a strobe light to a bit of scaffolding that was overhead of a busy path. It is here that he took pictures of many people that were just passing by, when the light touched them and lit them up. The contrast of the persons face versus the other peoples faces in the dark, ultimately led to the success of his exhibition "Heads". It is during this exhibition, that one of the people that he captured the photo of, found out that he had his picture taken and then exhibited without his consent. The man contacted his lawyer, and sued Philip-Lorca diCorcia for publishing and exhibiting the portrait of him without his permission, and profiting from it. 
+
+The lawsuit was eventually dismissed, as it was ruled that the photographers artistic rights trumped the mans privacy rights. If a photographer wants to take photos on a private property, they must first get permission. However, and this is the scary thing, when it comes to public places, a persons "privacy" is actually overruled by the fact that they are actually out in public, so they do not have as much control over their own privacy as they may think. 
+
+Now, if this was a case where an IT professional had sought to use the artists photos for this, then it is safe to say that the safest and most secure way to make sure that the photos are usable, is to seek the permission of those who are the subjects, regardless of whether or not they were in a public place or not. It is always better to be safe than sorry. If Philip-Lorca diCorcia had asked the people he captured if he could use the image for his own personal gain, then with the permission from them, he would have been able to go on and exhibit and have nothing to worry about.  This is the best way to mitigate and prevent ethical breaches.
+
+#### References
+
+https://www.lexology.com/library/detail.aspx?g=6b37a60b-e179-419a-a822-c1fe47cf49e3
+https://www.oaic.gov.au/privacy/privacy-for-organisations/small-business/
+https://www.oaic.gov.au/privacy/notifiable-data-breaches/
+https://en.wikipedia.org/wiki/Copyright_law_of_Australia#Copyright_Act_1968
+https://www.ipaustralia.gov.au/patents
+https://www.whoishostingthis.com/resources/copyright-guide/
+https://www.nytimes.com/2006/03/17/arts/street-photography-a-right-or-invasion.html
 
 ## 8 - Explain Control Flow using Ruby
 
@@ -298,7 +356,9 @@ By cloning the array, it stores a copy of the original array in order to call ba
 
 ## 14 - Complete the Two Tasks
 
-i. ![](https://github.com/thomasjfisher/Workbook_T1A1/blob/master/src/prime_number_flowchat.jpg)
+i. 
+
+![](https://github.com/thomasjfisher/Workbook_T1A1/blob/master/src/prime_number_flowchat.jpg)
 
 ii. Pseudocode 
 
