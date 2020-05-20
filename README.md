@@ -298,18 +298,25 @@ By cloning the array, it stores a copy of the original array in order to call ba
 
 ## 14 - Complete the Two Tasks
 
-i. ![]()
+i. ![](https://github.com/thomasjfisher/Workbook_T1A1/blob/master/src/prime_number_flowchat.jpg)
 
 ii. Pseudocode 
 
-1. get a number
+1. get a number(num)
+
 2. initialize an index value to start from 2 ( i =2)
+
 3. check if number is modulo by index ( num % i == 0)
+
 4. increment index by 1
+
 5. if yes -> print not a prime number -> exit the loop
-6. if no -> loop back to step 3 
-7. repeat step 3,4 ,5,6 while i< number
-8. print it is a prime number
+
+6. if no -> loop back to step 3 and repeat step 3, 4, 5, 6 while i< num
+
+7. print it is a prime number
+
+   
 
 ## 15 - Write Pseudo or Ruby code
 
