@@ -436,6 +436,10 @@ puts allergy[:eggs] + allergy[:peanuts] + allergy[:shellfish] + allergy[:strawbe
 
 
 
+Author
+Thomas Fisher
+https://github.com/thomasjfisher/Workbook_T1A1
+
 
 
 
